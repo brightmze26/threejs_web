@@ -38,9 +38,20 @@ const Discuss = () => {
         <h1 className='head-third-text mt-4 mb-4'>Tectonic earthquake</h1>
         <p className='textarea'>Tectonic earthquakes are a type of earthquake caused by a sudden shift on a fault line. Tectonic plates are always moving slowly, but they get stuck at their edges due to friction. When the stress on the edge overcomes the friction, an earthquake releases energy in waves that travel through the Earth's crust and cause the shaking we feel. Tectonic earthquakes can occur anywhere on Earth where there is enough accumulated elastic strain energy to drive fracture propagation along a fault plane. The Earth's surface is made up of adjacent plates that are constantly moving, with movements that can reach up to 10 cm per year.</p>
 
-        
         <h1 className='head-third-text mt-4 mb-4'>Vulcanic earthquake</h1>
         <p className='textarea'>Vulcanic earthquakes are micro-vibrations in the local earth's crust caused by magma activity or volcanic eruptions. This type of earthquake can occur before, during, or after a volcanic eruption. The cause of volcanic earthquakes is eruptions or volcanic eruptions, which are vibrations caused by the activity of magma friction against the rock walls penetrated as magma rises to the surface of the volcano.</p>
+
+        <h1 className='head-second-text mt-4 mb-4'>What about other planets?</h1>
+        <p className='textarea'>Some planets have structural similarities to Earth. Broadly speaking, there are two types of structures found in planets: rocky planets and gas planets. Rocky planets are the innermost planets closest to the Sun: Mercury, Venus, Earth, and Mars. Gas planets are Jupiter, Saturn, Uranus, and Neptune. They are the farthest planets from the Sun.</p>
+
+        <h1 className='head-third-text mt-4 mb-4'>Rocky Planets</h1>
+        <p className='textarea'>These rocky planets, such as Earth, have solid surfaces suitable for the formation of continents, mountains, and other geological features. The structure of rocky planets typically consists of several layers: Core, Mantle, and Crust.</p>
+
+        <h1 className='head-third-text mt-4 mb-4'>Gas Planets</h1>
+        <p className='textarea'>Unlike rocky planets with distinct solid surfaces, gas giants lack a well-defined surface and instead have gradually thickening layers of gas and liquid that transition into a dense core. The structure of gas planets differs significantly from rocky planets like Earth. Gas giants typically have the following structure:<br/> <br/> 1. Atmosphere: Gas giants have thick atmospheres composed mainly of hydrogen and helium, with trace amounts of other gases like methane and ammonia. These atmospheres can extend thousands of kilometers deep.<br/>2. Liquid Metallic Hydrogen Layer: Beneath the atmosphere, there is a layer of liquid metallic hydrogen. Under extreme pressure, hydrogen transitions from a gas to a liquid with metallic properties. This layer is thought to be responsible for generating the planets' strong magnetic fields.<br/> 3. Core: At the center of gas giants lies a dense core, believed to be composed of rock, metal, and other heavy elements. The core is surrounded by layers of hydrogen and helium, compressed to extreme densities by the weight of the overlying atmosphere.</p>
+
+        <h1 className='head-third-text mt-4 mb-4'>Natural vibrations in the Solar System</h1>
+        <p className='textarea'>Natural vibrations on gas planets do not occur as they do on rocky planets like Earth. Because the internal structure of gas planets is more dynamic and lacks a solid surface like rocky planets, phenomena such as earthquakes are not possible. However, gas planets can experience other phenomena such as atmospheric waves, which are atmospheric vibrations that can occur due to various factors such as temperature changes or atmospheric movement. In the solar system itself, vibrations can occur due to several factors, such as the presence of high-energy radiation originating from black holes and collisions from asteroids and their fragments called meteoroids.</p>
       </div>   
     </section>  
   )
